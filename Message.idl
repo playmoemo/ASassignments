@@ -1,0 +1,8 @@
+module MessageApp
+{
+  interface Message
+  {
+  string getMessage();
+  void sendMessage(in String msg);
+  };
+};

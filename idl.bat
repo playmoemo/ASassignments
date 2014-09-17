@@ -1,0 +1,1 @@
+idlj -fall Message.idl
